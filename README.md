@@ -4,14 +4,14 @@
 
 Submitted by: **Mark Xia**
 
-Time spent: **1** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
 ### Responsive Web Design Certification (300 hours)
-* [ ] Basic HTML and HTML5
+* [x] Basic HTML and HTML5
 * [ ] Basic CSS
 * [ ] Applied Visual Design
 * [ ] Applied Accessibility
