@@ -67,4 +67,4 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered.
